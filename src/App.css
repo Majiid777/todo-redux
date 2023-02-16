@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+#complete {
+  color: red;
+  text-decoration:line-through;
+
+}
+
+#undo {
+  color: green;
+}
